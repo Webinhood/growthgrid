@@ -2,7 +2,6 @@
 import { Box, Container, SimpleGrid, VStack, Heading, Text, Card, CardBody, Image, useColorModeValue } from '@chakra-ui/react'
 import SignupForm from '@/components/SignupForm'
 import { FeaturesList } from '@/components/FeaturesList'
-import { Testimonials } from '@/components/Testimonials'
 
 export default function Home() {
   const bgColor = useColorModeValue('#000', '#000')
