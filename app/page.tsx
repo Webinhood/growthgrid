@@ -61,7 +61,7 @@ export default function Home() {
                   Comece a ranquear no Google agora!
                 </Heading>
                 <Text fontSize="3xl" color={subtitleColor} mb={8}>
-                  Comece a ranquear no Google com a nossa ferramenta gratuita que gera uma estratégia personalizada para o seu negócio em poucos minutos:
+                  A nossa ferramenta gratuita gera uma estratégia personalizada para o seu negócio em poucos minutos:
                 </Text>
                 <FeaturesList textColor={textColor} />
               </CardBody>
